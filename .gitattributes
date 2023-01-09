@@ -1,0 +1,2 @@
+esodbc-7.16.3-windows-x86.msi filter=lfs diff=lfs merge=lfs -text
+esodbc-7.16.3-windows-x86_64.msi filter=lfs diff=lfs merge=lfs -text
